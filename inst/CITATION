@@ -1,0 +1,17 @@
+citHeader("To cite MatrixEffects in publications use:")
+
+citEntry(
+  entry = "Article",
+  title = "A statistical test and metric for matrix effects in non-linear calibration curves",
+  author = personList(
+    person("Mathias", "Brevik"),
+    person("Bjarte", "Holmelid"),
+    person("Svein Are", "Mjøs"),
+    person("Bjørn", "Grung")
+  ),
+  year = "2026",
+  journal = "Chemometrics and Intelligent Laboratory Systems",
+  doi = "10.1016/j.chemolab.2026.105710",
+  textVersion =
+    "Brevik M, Holmelid B, Mjøs SA, Grung B (2026). A statistical test and metric for matrix effects in non-linear calibration curves. Chemometrics and Intelligent Laboratory Systems. https://doi.org/10.1016/j.chemolab.2026.105710"
+)
