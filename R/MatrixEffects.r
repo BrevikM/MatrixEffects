@@ -408,7 +408,8 @@ print.l2test <- function(x, ...){
 #' @param object An l2test object
 #' @param ... Additional arguments
 #'
-#' @exportsummary.l2test <- function(object, ...) {
+#' @export
+            summary.l2test <- function(object, ...) {
   cat("L2 Norm Test for Matrix Effects\n")
   cat("===============================\n\n")
   
